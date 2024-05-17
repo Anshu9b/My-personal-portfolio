@@ -15,10 +15,12 @@ const About = () => {
             <p> Hi,I'm Anshu nice to meet you. Please take a look around.</p>
            </div>
            <div>
-             <p> I am passionate about coding stuffs ranging from complex dsa problems to writing ai/ml algorithms for my ML projects.
-            I also try to participate in contests,hackathons ranging from web developement to competitive programming.
-            Other than that i love writing technical blogs on Medium. 
-            Happy to connect with you all!!</p>
+             <p> My Skills include-
+                 •Problem Solving (Proficient in C, C++, Python)
+                 •UX/UI designing with Figma and Object-oriented programming/designing, Postman, Rest APIs.
+                 • Frontend Development HTML, CSS, (Javascript/Reactjs/React Native)
+                 •Backend Development (JavaScript/ 
+                 Happy to connect with you all!!</p>
              </div>
            </div>
         </div>
